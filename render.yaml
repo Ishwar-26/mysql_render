@@ -15,7 +15,7 @@ envVarGroups:
 - name: mysql
   envVars:
   - key: MYSQL_DATABASE
-    value: ishwar
+    value: aya
   - key: MYSQL_USER
     value: aya
   - key: MYSQL_PASSWORD
